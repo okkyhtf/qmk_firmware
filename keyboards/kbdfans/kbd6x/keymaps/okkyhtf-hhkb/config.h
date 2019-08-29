@@ -20,3 +20,7 @@
 
 #undef  MANUFACTURER
 #define MANUFACTURER    KBDfans
+#undef  PRODUCT
+#define PRODUCT         KBD6X (HHKB)
+#undef  DESCRIPTION
+#define DESCRIPTION     A custom 60% HHKB keyboard
